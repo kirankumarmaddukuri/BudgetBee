@@ -18,6 +18,12 @@ BudgetBee is a full-stack expense tracker web application designed to help users
 - **Database:** MongoDB 
 - **Other Libraries:** React Icons, React Toastify
 
+## Clone Repository
+To clone this repository, run the following command:
+```bash
+git clone https://github.com/kirankumarmaddukuri/expensify-website.git
+```
+
 ## Installation
 
 ### Backend Setup
@@ -86,7 +92,5 @@ BudgetBee is a full-stack expense tracker web application designed to help users
       ├── index.js            # React app entry point
   ├── package.json            # Frontend dependencies and scripts
 ```
-
-
 
 
