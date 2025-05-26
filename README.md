@@ -21,7 +21,7 @@ BudgetBee is a full-stack expense tracker web application designed to help users
 ## Clone Repository
 To clone this repository, run the following command:
 ```bash
-git clone https://github.com/kirankumarmaddukuri/expensify-website.git
+git clone https://github.com/kirankumarmaddukuri/BudgetBee.git
 ```
 
 ## Installation
