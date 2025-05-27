@@ -42,7 +42,7 @@ git clone https://github.com/kirankumarmaddukuri/BudgetBee.git
    ```
 4. Start the backend server:
    ```bash
-   npm start
+   node app.js
    ```
    The backend server will run on the port specified in `.env` (default 3002).
 
